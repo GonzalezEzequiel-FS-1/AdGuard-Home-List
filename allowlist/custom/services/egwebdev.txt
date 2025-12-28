@@ -1,0 +1,3 @@
+# egwebdev.com allowlist
+@@||egwebdev.com^$important
+@@||*.egwebdev.com^$important
