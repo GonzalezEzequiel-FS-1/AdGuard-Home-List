@@ -1,3 +1,4 @@
 # n00bst3r.com allowlist
 @@||n00bst3r.com^$important
 @@||*.n00bst3r.com^$important
+@@||panel.n00bst3r.com^$important
